@@ -1,0 +1,1 @@
+# Opal is a Ruby to JavaScript source-to-source compiler
