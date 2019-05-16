@@ -21,7 +21,7 @@
     <!-- Custom code included as an external file -->
     <script type="text/ruby" src="/assets/js/example.rb"></script>
 
-    <!-- Custom code included as an inline -->
+    <!-- Custom code included inline -->
     <script type="text/ruby">
       Document.ready? do
         alert('Document is ready')
