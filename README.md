@@ -39,7 +39,7 @@ Document.ready? do
 end
 
 # Class creation
-class User1
+class User
   attr_accessor :user
 
   def initialize(user)
@@ -52,7 +52,7 @@ class User1
 end
 
 # Class usage
-luis = User1.new("Luis Gomez")
+luis = User.new("Luis Gomez")
 luis.hello # "Hello - Luis Gomez"
 
 # GET
