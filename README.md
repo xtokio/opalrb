@@ -97,6 +97,7 @@ Element.id('txt_title').remove_class("form-control")
 td_text = Element.find('td').at(4)
 
 # Click event
+display = Element.find("#btn_display")
 display.on(:click) do
   Element.find('#tbody').html = ""
 end
