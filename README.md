@@ -17,7 +17,7 @@
     <script src="/assets/js/opalrb.min.js"></script>
 
     <!-- Custom code included as an external file -->
-    <script type="text/ruby" src="/assets/js/example.rb"></script>
+    <script type="text/ruby" src="/assets/rb/example.rb"></script>
 
     <!-- Custom code included inline -->
     <script type="text/ruby">
