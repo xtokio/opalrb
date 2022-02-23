@@ -13,10 +13,8 @@
   <body>
 
     <!-- Required libraries -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="/assets/js/opalrb/opal.v0.3.43.js"></script>
-    <script src="/assets/js/opalrb/opal-parser.v0.3.43.js"></script>
-    <script src="/assets/js/opalrb/opal-jquery.v0.0.8.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/opalrb.min.js"></script>
 
     <!-- Custom code included as an external file -->
     <script type="text/ruby" src="/assets/js/example.rb"></script>
